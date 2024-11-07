@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently studying on postmodernism. And because it is too difficult, I will try to build a website-tech studying page for me.
 
 <!--
 **movningstav/movningstav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
